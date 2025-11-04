@@ -1,0 +1,9 @@
+name = "noki"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Tim Robinson"]
+maintainers = ["Tim Robinson <example@example.com>"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
